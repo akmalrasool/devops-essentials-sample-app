@@ -2,4 +2,5 @@
 .gradle
 src/*.state
 *.bak
+tmp/*
 
